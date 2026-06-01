@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO on myHugo</title>
+    <link>/categories/seo/</link>
+    <description>Recent content in SEO on myHugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <lastBuildDate>Sat, 19 Sep 2020 22:32:19 +0100</lastBuildDate><atom:link href="/categories/seo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEO</title>
+      <link>/posts/seo/</link>
+      <pubDate>Sat, 19 Sep 2020 22:32:19 +0100</pubDate>
+      
+      <guid>/posts/seo/</guid>
+      <description>což je zkratka slov &amp;ldquo;Search Engine Optimization&amp;rdquo;, nebo-li optimalizace internetových stránek pro internetové vyhledávače tak, aby se zvýšila jejich návštěvnost. Co vše k tomu může napomoci?
+Budování SEO A Kvalitní, validní obsah a unikátní obsah Správná struktura URL Sitemap Responsivita Správné vnitřní prolinkování Přístupnost pro roboty B Klíčová slova a zaměření Vyhledání důležitých klíčových slov Zaměření na ON page (titulky, meta, URL, H1, text, vnitřní anchor text) Správný výběr frází C Linkbuilding Pravidelné vytváření kvalitních linků na důležitých doménách Aktivní oslovování pro budování linků Obsahově zaměřený linkbuilding D Sociální stránka webu Zajištění pravidelné návštěvnosti Zaměření stránky na uživatele Sociální a virální marketing SEO pyramida má za cíl uživateli ukázat, jaké činnosti jsou pro úspěch v bitvě o pozice ve vyhledávačích důležité.</description>
+    </item>
+    
+  </channel>
+</rss>

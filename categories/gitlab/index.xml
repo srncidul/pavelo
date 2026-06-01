@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gitlab on myHugo</title>
+    <link>/categories/gitlab/</link>
+    <description>Recent content in Gitlab on myHugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <lastBuildDate>Mon, 29 Nov 2021 22:32:19 +0100</lastBuildDate><atom:link href="/categories/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo CMS a Gitlab</title>
+      <link>/posts/hugo-gitlab/</link>
+      <pubDate>Mon, 29 Nov 2021 22:32:19 +0100</pubDate>
+      
+      <guid>/posts/hugo-gitlab/</guid>
+      <description>Odyž rzně reptalina uk řetelec rohlebe ič svitěvich vrace. Raze kvuštěník iž sevošent trajivec hemodvížek džembele un peše dež. Ouzá poměrník svě tjeda šed otlo. deleniti atque The standard Lorem Ipsum passage, used since the 1500s Corrupti quos dolores et quas molestias kromě sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum rerum facilis est et expedita differentio. Nam libero tempore, cum soluta nobis est competendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas převzetí est, omnis dolor repellendus.</description>
+    </item>
+    
+  </channel>
+</rss>

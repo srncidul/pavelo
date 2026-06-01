@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on myHugo</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on myHugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <lastBuildDate>Mon, 29 Nov 2021 22:32:19 +0100</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo CMS</title>
+      <link>/posts/hugo-cms/</link>
+      <pubDate>Mon, 29 Nov 2021 22:32:19 +0100</pubDate>
+      
+      <guid>/posts/hugo-cms/</guid>
+      <description>Odyž rzně reptalina uk řetelec rohlebe ič svitěvich vrace. Raze kvuštěník iž sevošent trajivec hemodvížek džembele un peše dež. Ouzá poměrník svě tjeda šed otlo. deleniti atque The standard Lorem Ipsum passage, used since the 1500s Corrupti quos dolores et quas molestias kromě sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum rerum facilis est et expedita differentio. Nam libero tempore, cum soluta nobis est competendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas převzetí est, omnis dolor repellendus.</description>
+    </item>
+    
+    <item>
+      <title>Hugo CMS a Gitlab</title>
+      <link>/posts/hugo-gitlab/</link>
+      <pubDate>Mon, 29 Nov 2021 22:32:19 +0100</pubDate>
+      
+      <guid>/posts/hugo-gitlab/</guid>
+      <description>Odyž rzně reptalina uk řetelec rohlebe ič svitěvich vrace. Raze kvuštěník iž sevošent trajivec hemodvížek džembele un peše dež. Ouzá poměrník svě tjeda šed otlo. deleniti atque The standard Lorem Ipsum passage, used since the 1500s Corrupti quos dolores et quas molestias kromě sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum rerum facilis est et expedita differentio. Nam libero tempore, cum soluta nobis est competendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas převzetí est, omnis dolor repellendus.</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>/posts/markdown/</link>
+      <pubDate>Mon, 29 Nov 2021 22:32:19 +0100</pubDate>
+      
+      <guid>/posts/markdown/</guid>
+      <description>Potřebujete používat Markdown. Pokud vytváříte stránky na př. v HUGO CMS, pak se mu nevyhnete.
+Použití Markdown jazyka v CMS Hugo je vysvětleno ZDE.
+Markdown demo najdete třeba ZDE.
+Pro rychlý převod stránek vytvořených na př. ve Wordpresu velice dobře poslouží online nástroj HTML to Markdown. Po převodu některé věci nemusí 100% fungovat. Pak je možné přímo v jazyce Markdown používat vložený HTML kód. U Hugo CMS to ale implicitně nefunguje.</description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>/posts/seo/</link>
+      <pubDate>Sat, 19 Sep 2020 22:32:19 +0100</pubDate>
+      
+      <guid>/posts/seo/</guid>
+      <description>což je zkratka slov &amp;ldquo;Search Engine Optimization&amp;rdquo;, nebo-li optimalizace internetových stránek pro internetové vyhledávače tak, aby se zvýšila jejich návštěvnost. Co vše k tomu může napomoci?
+Budování SEO A Kvalitní, validní obsah a unikátní obsah Správná struktura URL Sitemap Responsivita Správné vnitřní prolinkování Přístupnost pro roboty B Klíčová slova a zaměření Vyhledání důležitých klíčových slov Zaměření na ON page (titulky, meta, URL, H1, text, vnitřní anchor text) Správný výběr frází C Linkbuilding Pravidelné vytváření kvalitních linků na důležitých doménách Aktivní oslovování pro budování linků Obsahově zaměřený linkbuilding D Sociální stránka webu Zajištění pravidelné návštěvnosti Zaměření stránky na uživatele Sociální a virální marketing SEO pyramida má za cíl uživateli ukázat, jaké činnosti jsou pro úspěch v bitvě o pozice ve vyhledávačích důležité.</description>
+    </item>
+    
+    <item>
+      <title>Hugo CMS</title>
+      <link>/posts/hugo-basics/</link>
+      <pubDate>Thu, 17 Sep 2020 22:21:42 +0100</pubDate>
+      
+      <guid>/posts/hugo-basics/</guid>
+      <description>Hugo je generátor statických stránek napsaný v jazyce Go. Jedná se o open-source projekt vydávaný pod licencí Apache License 2.0. Vyniká především rychlostí generování výsledných statických HTML stránek. Hugo funguje tak, že projde soubory s obsahem a tento obsah dosadí do připravených šablon a vygeneruje statické HTML stránky.
+Výsledný web tedy není dynamický web, nýbrž soubor statických HTML souborů. To má výhody z hlediska rychlosti načítání webu a také z pohledu bezpečnosti.</description>
+    </item>
+    
+    <item>
+      <title>Hugo themes</title>
+      <link>/posts/hugo-themes/</link>
+      <pubDate>Thu, 17 Sep 2020 22:21:42 +0100</pubDate>
+      
+      <guid>/posts/hugo-themes/</guid>
+      <description>Odyž rzně reptalina uk řetelec rohlebe ič svitěvich vrace. Raze kvuštěník iž sevošent trajivec hemodvížek džembele un peše dež. Ouzá poměrník svě tjeda šed otlo. deleniti atque The standard Lorem Ipsum passage, used since the 1500s Corrupti quos dolores et quas molestias kromě sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum rerum facilis est et expedita differentio. Nam libero tempore, cum soluta nobis est competendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas převzetí est, omnis dolor repellendus.</description>
+    </item>
+    
+    <item>
+      <title>Micro 4/3</title>
+      <link>/posts/mft/</link>
+      <pubDate>Thu, 17 Sep 2020 22:21:42 +0100</pubDate>
+      
+      <guid>/posts/mft/</guid>
+      <description>Odyž rzně reptalina uk řetelec rohlebe ič svitěvich vrace. Raze kvuštěník iž sevošent trajivec hemodvížek džembele un peše dež. Ouzá poměrník svě tjeda šed otlo. deleniti atque The standard Lorem Ipsum passage, used since the 1500s. Corrupti quos dolores et quas molestias kromě sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum rerum facilis est et expedita differentio. Nam libero tempore, cum soluta nobis est competendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas převzetí est, omnis dolor repellendus.</description>
+    </item>
+    
+    <item>
+      <title>Olympus</title>
+      <link>/posts/olympus/</link>
+      <pubDate>Thu, 17 Sep 2020 22:21:42 +0100</pubDate>
+      
+      <guid>/posts/olympus/</guid>
+      <description>Odyž rzně reptalina uk řetelec rohlebe ič svitěvich vrace. Raze kvuštěník iž sevošent trajivec hemodvížek džembele un peše dež. Ouzá poměrník svě tjeda šed otlo. deleniti atque The standard Lorem Ipsum passage, used since the 1500s. Corrupti quos dolores et quas molestias kromě sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum rerum facilis est et expedita differentio. Nam libero tempore, cum soluta nobis est competendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas převzetí est, omnis dolor repellendus.</description>
+    </item>
+    
+    <item>
+      <title>This is Post-1 title</title>
+      <link>/posts/post-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/posts/post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This is Post-2 title</title>
+      <link>/posts/post-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/posts/post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This is Post-3 title</title>
+      <link>/posts/post-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/posts/post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>This is Post-4 title</title>
+      <link>/posts/post-4/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/posts/post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
