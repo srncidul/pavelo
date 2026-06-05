@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on paVelo</title>
-    <link>/en/categories/</link>
+    <link>https://srncidul.github.io/pavelo/en/categories/</link>
     <description>Recent content in Categories on paVelo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://srncidul.github.io/pavelo/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bootstrap 3</title>
-      <link>/en/categories/bootstrap-3/</link>
+      <link>https://srncidul.github.io/pavelo/en/categories/bootstrap-3/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>/en/categories/bootstrap-3/</guid>
+      <guid>https://srncidul.github.io/pavelo/en/categories/bootstrap-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap 4</title>
-      <link>/en/categories/bootstrap-4/</link>
+      <link>https://srncidul.github.io/pavelo/en/categories/bootstrap-4/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>/en/categories/bootstrap-4/</guid>
+      <guid>https://srncidul.github.io/pavelo/en/categories/bootstrap-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bulma</title>
-      <link>/en/categories/bulma/</link>
+      <link>https://srncidul.github.io/pavelo/en/categories/bulma/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>/en/categories/bulma/</guid>
+      <guid>https://srncidul.github.io/pavelo/en/categories/bulma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>codeigniter</title>
-      <link>/en/categories/codeigniter/</link>
+      <link>https://srncidul.github.io/pavelo/en/categories/codeigniter/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>/en/categories/codeigniter/</guid>
+      <guid>https://srncidul.github.io/pavelo/en/categories/codeigniter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>processwire</title>
-      <link>/en/categories/processwire/</link>
+      <link>https://srncidul.github.io/pavelo/en/categories/processwire/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>/en/categories/processwire/</guid>
+      <guid>https://srncidul.github.io/pavelo/en/categories/processwire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wordpress</title>
-      <link>/en/categories/wordpress/</link>
+      <link>https://srncidul.github.io/pavelo/en/categories/wordpress/</link>
       <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>/en/categories/wordpress/</guid>
+      <guid>https://srncidul.github.io/pavelo/en/categories/wordpress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/en/categories/hugo/</link>
+      <link>https://srncidul.github.io/pavelo/en/categories/hugo/</link>
       <pubDate>Thu, 17 Sep 2020 22:21:42 +0100</pubDate>
       
-      <guid>/en/categories/hugo/</guid>
+      <guid>https://srncidul.github.io/pavelo/en/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webdesign</title>
-      <link>/en/categories/webdesign/</link>
+      <link>https://srncidul.github.io/pavelo/en/categories/webdesign/</link>
       <pubDate>Thu, 17 Sep 2020 22:21:42 +0100</pubDate>
       
-      <guid>/en/categories/webdesign/</guid>
+      <guid>https://srncidul.github.io/pavelo/en/categories/webdesign/</guid>
       <description></description>
     </item>
     
